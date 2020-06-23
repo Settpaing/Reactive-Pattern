@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "reactive-pattern"
+    }
+  },
+  "defaultProject": "reactive-pattern",
+  "cli": {
+    "analytics": "991c7d17-d3e4-46af-85cf-4a718c289a64"
+  }
 }
